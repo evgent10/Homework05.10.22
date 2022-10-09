@@ -1,0 +1,15 @@
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\bin\Debug\net6.0\Home05.10.22.exe
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\bin\Debug\net6.0\Home05.10.22.deps.json
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\bin\Debug\net6.0\Home05.10.22.runtimeconfig.json
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\bin\Debug\net6.0\Home05.10.22.dll
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\bin\Debug\net6.0\Home05.10.22.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.csproj.AssemblyReference.cache
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.AssemblyInfoInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.AssemblyInfo.cs
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.dll
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\refint\Home05.10.22.dll
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\Home05.10.22.genruntimeconfig.cache
+C:\Users\evgen\OneDrive\Рабочий стол\GeegBrans\GIT\1_1четверть code\Homework05.10.22\Home05.10.22\obj\Debug\net6.0\ref\Home05.10.22.dll
