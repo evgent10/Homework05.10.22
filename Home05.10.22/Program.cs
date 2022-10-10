@@ -54,7 +54,7 @@ else
 
     pointX = (double) (b2-b1)/(k1-k2);
     pointY = (double) k1*(b2-b1)/(k1-k2) + b1;
-    Console.WriteLine("Координаты точки пересечения двух прямых:");
+    Console.WriteLine("Координаты точки пересечения двух прямых: ");
     Console.WriteLine($"Х: {pointX:0.00}");
     Console.WriteLine($"Y: {pointY:0.00}");
 }
